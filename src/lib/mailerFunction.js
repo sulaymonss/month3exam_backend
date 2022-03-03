@@ -6,7 +6,7 @@ async function nodeMailer(name, address, email, cart) {
     service: "gmail",
     auth: {
       user: "sulaymonsaidmurodovich@gmail.com",
-      pass: "ssgmail03",
+      pass: "ssgmail2003",
     },
     tls: {
       rejectUnauthorized: false,
